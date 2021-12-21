@@ -565,3 +565,6 @@ Congratulations: you made to the end of today's workshop. More building to follo
 **... and see you at our next workshop!**
 
 > Sincerely yours, The DataStax Developers
+
+# Reference
+https://academy.datastax.com/#/curricula/eca8a762-0181-48a8-b1b5-f98e01376bc3

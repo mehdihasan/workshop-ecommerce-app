@@ -28,3 +28,7 @@ dist
 template.config.js
 .env
 backend/src/main/resources/static/*
+
+
+##
+how-to-run-the-app.md
